@@ -40,6 +40,9 @@ streamlit run app.py
 * Requests
 * Scikit-learn
 
+## Dataset
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 ## Contributing
 #### Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or new features you'd like to see.
 
