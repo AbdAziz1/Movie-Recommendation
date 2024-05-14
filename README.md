@@ -10,29 +10,6 @@
 * Visual Representation: Displays recommended movies along with their posters for a visually appealing experience.
 * Customizable: Users can easily extend the system by adding more features or integrating additional data sources.
 
-## Demo
-## Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/AbdAziz1/Movie-Recommendation.git
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Obtain API key:
-* Register on The Movie Database (TMDb) to get an API key.
-* Replace 'YOUR_API_KEY' in fetch_poster() function with your actual API key.
-
-## Usage
-1. Run the Streamlit app:
-```bash
-streamlit run app.py
-```
-2. Open the URL displayed in the terminal in your web browser.
-3. Select a movie from the dropdown menu and click the "Recommend" button to get suggestions.
-
 ## Technologies
 * Python
 * Streamlit
